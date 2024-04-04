@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/shairacastro/Desktop/CPSC1012/Assignment3Starter/Assignment3Starter/Assignment3Starter.csproj",
+      "projectUniqueName": "/Users/shairacastro/Desktop/CPSC1012/FirstRepo/Assignment3/Assignment3Starter.csproj",
       "projectName": "Assignment3Starter",
-      "projectPath": "/Users/shairacastro/Desktop/CPSC1012/Assignment3Starter/Assignment3Starter/Assignment3Starter.csproj",
+      "projectPath": "/Users/shairacastro/Desktop/CPSC1012/FirstRepo/Assignment3/Assignment3Starter.csproj",
       "packagesPath": "/Users/shairacastro/.nuget/packages/",
-      "outputPath": "/Users/shairacastro/Desktop/CPSC1012/Assignment3Starter/Assignment3Starter/obj/",
+      "outputPath": "/Users/shairacastro/Desktop/CPSC1012/FirstRepo/Assignment3/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/shairacastro/.nuget/NuGet/NuGet.Config"
