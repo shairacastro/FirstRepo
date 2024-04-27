@@ -1,0 +1,14 @@
+/Users/shairacastro/Desktop/CPSC1012/Assignment4/Assignment4/bin/Debug/net8.0/Assignment4
+/Users/shairacastro/Desktop/CPSC1012/Assignment4/Assignment4/bin/Debug/net8.0/Assignment4.deps.json
+/Users/shairacastro/Desktop/CPSC1012/Assignment4/Assignment4/bin/Debug/net8.0/Assignment4.runtimeconfig.json
+/Users/shairacastro/Desktop/CPSC1012/Assignment4/Assignment4/bin/Debug/net8.0/Assignment4.dll
+/Users/shairacastro/Desktop/CPSC1012/Assignment4/Assignment4/bin/Debug/net8.0/Assignment4.pdb
+/Users/shairacastro/Desktop/CPSC1012/Assignment4/Assignment4/obj/Debug/net8.0/Assignment4.GeneratedMSBuildEditorConfig.editorconfig
+/Users/shairacastro/Desktop/CPSC1012/Assignment4/Assignment4/obj/Debug/net8.0/Assignment4.AssemblyInfoInputs.cache
+/Users/shairacastro/Desktop/CPSC1012/Assignment4/Assignment4/obj/Debug/net8.0/Assignment4.AssemblyInfo.cs
+/Users/shairacastro/Desktop/CPSC1012/Assignment4/Assignment4/obj/Debug/net8.0/Assignment4.csproj.CoreCompileInputs.cache
+/Users/shairacastro/Desktop/CPSC1012/Assignment4/Assignment4/obj/Debug/net8.0/Assignment4.dll
+/Users/shairacastro/Desktop/CPSC1012/Assignment4/Assignment4/obj/Debug/net8.0/refint/Assignment4.dll
+/Users/shairacastro/Desktop/CPSC1012/Assignment4/Assignment4/obj/Debug/net8.0/Assignment4.pdb
+/Users/shairacastro/Desktop/CPSC1012/Assignment4/Assignment4/obj/Debug/net8.0/Assignment4.genruntimeconfig.cache
+/Users/shairacastro/Desktop/CPSC1012/Assignment4/Assignment4/obj/Debug/net8.0/ref/Assignment4.dll
